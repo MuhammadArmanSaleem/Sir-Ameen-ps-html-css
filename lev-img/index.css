@@ -1,0 +1,88 @@
+body{
+    background-color:black;
+}
+
+nav{
+    list-style:none;
+    text-decoration: none;
+    display: block;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: red;
+    background-color: white;
+    border-radius:3px;
+}
+
+.logo{
+    margin-top:20px;
+}
+
+.logo h2{
+   color: white;
+}
+h5{
+    color: white;
+}
+p{
+    color: white;
+}
+img{
+    height:600px;
+}
+.carousel-item h3 {
+    color:red;
+}
+.Services-head{
+    text-align: center;
+    margin-top:50px;
+    color: white;
+}
+
+.services-box{
+    background:gray;
+}
+.services-box h3{
+ padding-top:20px;
+ text-align: center;
+ 
+}
+.services-box p{
+ padding-top:20px;
+ text-align: center;
+}
+footer{
+    background:gray;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+}
+.social-icons{
+    color: black;
+    margin-top:20px;
+    font-size:60px;
+}
+.social-icons a{
+    text-decoration: none;
+    color:black;    
+}
+.fa-facebook:hover{
+    color:rgb(19, 19, 74);
+}
+.fa-instagram:hover{
+    color:#FCAF45;
+}
+.fa-youtube:hover{
+    color:red;
+}
+.fa-google-plus:hover{
+    color:#db4437;
+}

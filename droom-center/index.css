@@ -1,0 +1,31 @@
+.nav-bar ul li{
+    list-style:none;
+    display: inline;
+    padding-left:70px;
+}
+.nav-bar a{
+ text-decoration: none;
+ color: black;
+ font-weight:bold;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-bar a:hover{
+    color:red;
+}
+.banner{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png');
+    width: 1536px;
+    height: 600px;
+}
+.banner-text{
+    padding-left: 900px;
+    padding-top: 200px;
+}
+.banner-text h1{
+ font-weight: bold;
+ color: white;
+} 
+.banner-text p{
+ font-weight: bold;
+ color: white;
+} 

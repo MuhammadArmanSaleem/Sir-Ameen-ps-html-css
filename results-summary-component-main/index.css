@@ -1,0 +1,75 @@
+.your-result{
+    background-color: blue;
+    border-radius: 10px;
+    width: 300px;
+    padding: auto;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+.btn{
+    border-radius:250px;
+    width: 250px;
+
+}
+.result-heading span{
+    margin: auto;
+    font-size: large;
+    margin-top: 20px;
+}
+.score{
+    width:100px;
+    height:100px;
+    background-color: lightblue;
+    border-radius:100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.great-heading{
+    padding:30px;
+}
+.great-heading h4{
+    justify-content: center;
+}
+.score h3{
+margin: 0%;
+}
+.summary-heading{
+    border-radius: 10px;
+    width: 300px;
+    background-color: lightblue;
+    padding-left: 20px;
+
+}
+.summary-heading h4{
+    padding-left: 20px;
+}
+.summary-heading ul{
+    list-style:none;
+    padding-top: 20px;
+}
+.summary-heading ul li{
+   padding: 10px;
+   margin-top: 10px;
+   background-color: paleturquoise
+}
+.summary-heading ul li:nth-child(2){
+    background-color: aqua;
+}
+.summary-heading ul li:nth-child(3){
+    background-color:gray;
+}
+.summary-heading ul li:nth-child(4){
+    background-color: dimgray;
+}
+.result-summary-box{
+    margin: auto;
+    width: 800px;
+    margin-top: 0px;
+}

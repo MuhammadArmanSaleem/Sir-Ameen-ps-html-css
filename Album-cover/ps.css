@@ -1,0 +1,39 @@
+.header{
+    background: black;
+    color:#fff;
+    
+}
+.banner{ background: #ccc;}
+.banner-inner {height: 400px;}
+.boxes-section{
+    background-color: aliceblue;
+    padding: 40px 0px;    
+}
+.text{
+background-color: white;
+}
+.image{
+    height:50%;
+}
+.text p{
+    text-align: center;
+    display: flex;
+   justify-content: center; 
+   align-items: center; 
+   height: auto;
+   
+}
+.navbar{
+    color: aliceblue;
+}
+.content-right{
+    text-align:right ;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #fff!important;
+}
+.img-fluid{
+    width: 100%;
+}
+.box { margin-bottom: 20px;}
+.box img { width: 100%;}

@@ -1,0 +1,54 @@
+.heading{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size:100px;
+}
+.about{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.prep_heading{
+    color: crimson;
+    font-weight: bold;
+    font-size:35px;
+}
+.prep_sec{
+    background-color:lightpink;
+    border-radius: 20px;
+}
+.ingredient{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:50px;
+    color:lightsalmon;
+}
+.ing-list{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.instruction{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:50px;
+    color:lightsalmon;
+}
+.instruct-list{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;  
+}
+.nutrition{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:50px;
+    color:lightsalmon;
+}
+.nutri-table{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.nutri-para{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.number{
+    color: brown;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+.qr-container{
+    background-color: white;
+  width: 500px;
+  margin: auto;
+  border-radius: 7px;
+  padding: 20px;
+}
+.qr-img img{
+    width: 400px;
+    border-radius: 7px;
+    width: 100%;
+
+}
+.qr-img{
+    margin: auto;
+}
